@@ -1,0 +1,4 @@
+com\app\microservices\core\model\protocols\AbstractEntity.class
+com\app\microservices\core\model\useCases\CourseModel$CourseModelBuilder.class
+com\app\microservices\core\model\useCases\CourseModel.class
+com\app\microservices\core\repository\course\CourseRepository.class
